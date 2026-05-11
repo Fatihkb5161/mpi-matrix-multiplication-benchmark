@@ -17,7 +17,6 @@ Bu proje, paralel bilgisayar mimarileri üzerinde C (OpenMPI) ve Python (mpi4py)
 - `main.c`: C dili ile yazılmış paralel matris çarpım kodu.
 - `main.py`: Python (mpi4py) ile yazılmış, saf döngü mimarisine sahip paralel matris çarpım kodu.
 - `matris_uret.py`: İstenilen boyutta (N) rastgele A ve B test matrislerini (txt) üreten betik.
-- `otomasyon.py`: Tüm 1, 2, 4, 8 ve 16 işlemcili testleri otomatik koşturan ve çıktıları ayrıştırıp hızlanma grafiğini (PNG) çizen benchmarking betiği.
 
 ## ⚙️ Nasıl Çalıştırılır?
 
